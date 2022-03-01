@@ -1,0 +1,24 @@
+.memberCard{
+    display:flex;
+    border:1px solid lightcyan;
+    width:500px;
+    justify-content: space-between;
+    border-radius: 5px;
+    padding:10px;
+    margin: 10px;
+    background-color: black;
+    color:white;
+    box-shadow: 0 0 5px lightgoldenrodyellow;
+}
+.memberCard img{
+    width: 200px;
+    border-radius: 10px;
+}
+.add-btn{
+    padding:5px 20px;
+    background-color: white;
+    color:black;
+    cursor:pointer;
+    border-radius: 5px;
+    margin: 5px;
+}
